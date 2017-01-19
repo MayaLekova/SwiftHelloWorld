@@ -72,7 +72,7 @@
                     <navigationItem key="navigationItem" id="C71-6t-zRM"/>
                     <connections>
                         <outlet property="calculationBox" destination="tfg-Ys-mm6" id="PJJ-xF-bcT"/>
-                        <outlet property="printBox" destination="FEl-7s-3E6" id="gae-U3-gSJ"/>
+                        <outlet property="printBox" destination="FEl-7s-3E6" id="5UY-Yr-NZB"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
